@@ -1,6 +1,0 @@
-{
-    "port": 8080,
-    "webroot": "localhost",
-    "welcomeMsg":"",
-    "roomNames":["Global","Private Games"]
-}
