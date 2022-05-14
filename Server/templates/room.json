@@ -1,0 +1,9 @@
+{
+    "name":"",
+    "password":"",
+    "state":0,
+    "max_player":0,
+    "map":0,
+    "difficulty":0,
+    "user":[]
+}
